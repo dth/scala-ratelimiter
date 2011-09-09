@@ -1,0 +1,3 @@
+Rate limiter in Scala.
+
+Can be used via Scalatra or Lift.
