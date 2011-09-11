@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="managed libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib_managed/scala_2.9.0/compile" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib_managed/scala_2.9.0/compile" recursive="false" />
+  </library>
+</component>
